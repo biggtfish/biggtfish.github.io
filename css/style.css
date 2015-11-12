@@ -125,7 +125,7 @@ a:hover {
   line-height: 1.4;
   text-align: center;
   letter-spacing: .01em;
-  color: white
+  color: #999
 }
 
 .fr_h1_main_center_white-1 {
@@ -687,7 +687,6 @@ a:hover {
   width: 90%;
   margin-right: auto;
   margin-left: auto;
-  min-height: 1.2em;
   max-width: 600px
 }
 
@@ -1398,6 +1397,14 @@ a:hover {
   fill: white
 }
 
+.fr_link_4 {
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px
+}
+
 .fr_bf_svg_illustration_three .fr-svg-inner {
   padding-top: 0;
   padding-right: 0;
@@ -1522,6 +1529,9 @@ a:hover {
     display: block
   }
   .fr_mobile_toggle {
+    display: block
+  }
+  .fr_link_4 {
     display: block
   }
 }
@@ -1767,30 +1777,6 @@ a:hover {
   transition-duration: .125s
 }
 
-.fr_hd2_button_buy {
-  transition-property: color, background-color;
-  transition-duration: .3s;
-  transition-timing-function: ease-out
-}
-
-.fr_hd2_button_buy:hover {
-  color: black;
-  background-color: white;
-  transition-duration: .125s
-}
-
-.fr_hd2_button_try {
-  transition-property: color, background-color;
-  transition-duration: .3s;
-  transition-timing-function: ease-out
-}
-
-.fr_hd2_button_try:hover {
-  color: black;
-  background-color: white;
-  transition-duration: .125s
-}
-
 .fr_hd2_button_buy_2 {
   transition-property: color, background-color;
   transition-duration: .3s;
@@ -1810,6 +1796,30 @@ a:hover {
 }
 
 .fr_hd2_button_try_2:hover {
+  color: black;
+  background-color: white;
+  transition-duration: .125s
+}
+
+.fr_hd2_button_buy {
+  transition-property: color, background-color;
+  transition-duration: .3s;
+  transition-timing-function: ease-out
+}
+
+.fr_hd2_button_buy:hover {
+  color: black;
+  background-color: white;
+  transition-duration: .125s
+}
+
+.fr_hd2_button_try {
+  transition-property: color, background-color;
+  transition-duration: .3s;
+  transition-timing-function: ease-out
+}
+
+.fr_hd2_button_try:hover {
   color: black;
   background-color: white;
   transition-duration: .125s
