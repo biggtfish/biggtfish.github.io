@@ -220,7 +220,7 @@ a:hover {
   line-height: 1.3em;
   text-align: center;
   letter-spacing: .05em;
-  color: #cbcbcb
+  color: black
 }
 
 .fr_paragraph_center_black {
@@ -279,6 +279,16 @@ a:hover {
   text-align: center;
   letter-spacing: .05em;
   color: white
+}
+
+.fr_navigation_link {
+  font-family: europa;
+  font-weight: 300;
+  font-size: 1.1em;
+  line-height: 1.35em;
+  text-align: center;
+  letter-spacing: .01em;
+  color: #999
 }
 
 .fr_gallery_1 {
@@ -1336,6 +1346,58 @@ a:hover {
   max-width: 600px
 }
 
+.fr_navigation {
+  width: 100%;
+  background-color: black;
+  z-index: 1000
+}
+
+.fr_items {
+  float: none;
+  display: block;
+  width: 100%;
+  text-align: left;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+  padding-left: 10px;
+  overflow: hidden
+}
+
+.fr_link_3 {
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px
+}
+
+.fr_link_2 {
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px
+}
+
+.fr_link_1 {
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px
+}
+
+.fr_mobile_toggle {
+  display: none;
+  width: 22px;
+  margin-top: 20px;
+  margin-bottom: 13px;
+  margin-left: 20px;
+  fill: white
+}
+
 .fr_bf_svg_illustration_three .fr-svg-inner {
   padding-top: 0;
   padding-right: 0;
@@ -1360,7 +1422,15 @@ a:hover {
   position: relative
 }
 
+.fr_mobile_toggle .fr-svg-inner {
+  padding-bottom: 84.15300546448087%;
+  position: relative
+}
+
 @media screen and (max-width:768px) {
+  .fr_navigation_link {
+    text-align: left
+  }
   .fr_gry1_3_column_images.fr-grid>.fr-widget {
     float: left
   }
@@ -1426,6 +1496,33 @@ a:hover {
     width: 100%;
     clear: left;
     max-width: inherit
+  }
+  .fr_navigation {
+    padding-top: 0;
+    padding-bottom: 7px
+  }
+  .fr_items {
+    display: block;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    max-height: 0;
+    overflow: hidden
+  }
+  .fr_link_3 {
+    display: block
+  }
+  .fr_link_2 {
+    display: block
+  }
+  .fr_link_1 {
+    display: block
+  }
+  .fr_mobile_toggle {
+    display: block
   }
 }
 
