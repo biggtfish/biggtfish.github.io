@@ -223,6 +223,10 @@ a:hover {
   color: black
 }
 
+.fr_caption_center_light_grey.fr-text p {
+  color: #999
+}
+
 .fr_paragraph_center_black {
   font-family: europa;
   font-weight: 300;
