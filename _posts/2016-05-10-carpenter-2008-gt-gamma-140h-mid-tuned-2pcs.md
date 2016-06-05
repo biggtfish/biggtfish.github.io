@@ -19,13 +19,13 @@ published: true
 
 <hr />
 
-<pre><code>&lt;a href="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-2016-gt.jpg"&gt;&lt;img title="Carpenter 2016 GT" src="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-2016-gt.jpg" alt="Carpenter 2016 GT" width="500" height="375" /&gt;&lt;/a&gt; 
+<pre>&lt;a href="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-2016-gt.jpg"&gt;&lt;img title="Carpenter 2016 GT" src="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-2016-gt.jpg" alt="Carpenter 2016 GT" width="500" height="375" /&gt;&lt;/a&gt;</pre>
+
+<pre><code>&lt;br /&gt;
 </code></pre>
 
-</p>
 
-
-    ■コンセプト■
+■コンセプト■
 既存のルアーでは、”捕食のスイッチ”　を入れる事が出来ないターゲットに対して捕食のスイッチを
 入れられる事を目的に開発しました。
 国内のスレたＧＴに大変威力があります。また、食わす事が難しいクロマグロの実績も大です。
@@ -54,8 +54,7 @@ http://v.qq.com/page/z/7/8/z0163z9o478.html
 ③水中に止まった状態
 通常は③の状態をサスペンドと言います。しかし、ウッド製ルアーでサスペンド状態を作る事は
 大変難しいです。カーペンターではで①　②　③の状態をサスペンドとさせて頂きます。
-（水温で液体の比重が変化する為、樹脂製のルアーでも厳密なサスペンド状態を作り出す事は困難です）
-
+（水温で液体の比重が変化する為、樹脂製のルアーでも厳密なサスペンド状態を作り出す事は困難です）</p>
 
 <table border="1">
     <tbody>
@@ -643,8 +642,8 @@ http://v.qq.com/page/z/7/8/z0163z9o478.html
 
     ※ＧＴ－γ６０には、ＳＴ－４６フック仕様がございます。詳しくは　こちら　をご覧下さい。
 ※ＧＴ－γ２００－２７５のは、ノーマルフック仕様と大型フック仕様がございます。
-※仕様は改良により予告無く変更する事がございます。
+※仕様は改良により予告無く変更する事がございます。&nbsp;
 
 
 
-    &nbsp; <a href="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67.jpg"><img src="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67-600x600.jpg" alt="carpenter" width="600" height="600" /></a>
+    &nbsp;&nbsp; <a href="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67.jpg"><img src="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67-600x600.jpg" alt="carpenter" width="600" height="600" /></a>
