@@ -639,5 +639,5 @@ published: true
 ※仕様は改良により予告無く変更する事がございます。
 </p>
 
-<pre><code>&amp;nbsp; &lt;a href="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67.jpg"&gt;&lt;img src="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67-600x600.jpg" alt="carpenter" width="600" height="600" /&gt;&lt;/a&gt;
-</code></pre>
+
+    &nbsp; <a href="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67.jpg"><img src="http://www.proshopfishing.com/wp-content/uploads/2016/05/carpenter-67-600x600.jpg" alt="carpenter" width="600" height="600" /></a>
